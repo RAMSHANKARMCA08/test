@@ -7,4 +7,6 @@ Function B()
 Function C()
 {
 }
-
+Function Z()
+{
+}
