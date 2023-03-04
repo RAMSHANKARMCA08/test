@@ -1,1 +1,10 @@
-Attending class
+Function A()
+{
+}
+Function B()
+{
+}
+Function C()
+{
+}
+
